@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+#!/usr/bin/env python
 
 def fizbazz(num):
     is_divisible = lambda divisor, num: num % divisor == 0
